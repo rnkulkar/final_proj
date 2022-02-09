@@ -1,46 +1,47 @@
 Description of the Data:
 
-
-Win: 1 = Win. 0 = Loss
-
-Home: 1 = Home team. 0 = Away team.
-
-Game: Game #
-
-MP - Total minutes played. Equals 240 (48x5=240) if game did not go to overtime. MP>240 if game went to overtime.
-
-FG - Field goals made
-
-FGA - Field goal attempts
-
-FGP - Field Goal Percentage
-
-TP - 3 Point Field Goals Made
-
-TPA - Three point attempts
-
-TPP - three point percentage
-
-FT - Free throws made
-
-FTA - Free throws attempted
-
-FTP - Free throw percentage
-
-ORB - Offensive rebounds
-
-DRB - Defensive rebounds
-
-TRB - Total rebounds
-
-AST - Assists
-
-STL - Steals
-
-BLK - Blocks
-
-TOV - Turnovers
-
-PF - Personal fouls
-
-PTS - points scored
+  24 variables:
+  
+  Win: 1 = Win. 0 = Loss
+  
+  Home: 1 = Home team. 0 = Away team.
+  
+  Game: Game #
+  
+  MP - Total minutes played. Equals 240 (48x5=240) if game did not go to overtime. MP>240   if game went to overtime.
+  
+  FG - Field goals made
+  
+  FGA - Field goal attempts
+  
+  FGP - Field Goal Percentage
+  
+  TP - 3 Point Field Goals Made
+  
+  TPA - Three point attempts
+  
+  TPP - three point percentage
+  
+  FT - Free throws made
+  
+  FTA - Free throws attempted
+  
+  FTP - Free throw percentage
+  
+  ORB - Offensive rebounds
+  
+  DRB - Defensive rebounds
+  
+  TRB - Total rebounds
+  
+  AST - Assists
+  
+  STL - Steals
+  
+  BLK - Blocks
+  
+  TOV - Turnovers
+  
+  PF - Personal fouls
+  
+  PTS - points scored
